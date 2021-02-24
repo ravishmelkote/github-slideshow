@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to our second slide!"
 ---
-
-Use the right arrow to begin!
+This is Ravi's slide
+Use the left arrow to go back!
